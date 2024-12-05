@@ -15,8 +15,8 @@ ZenStreet is a web application designed to connect users with professional thera
 - Tailwind CSS
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/savio1233/zenstreet-webpage`
-2. Navigate to the ZenStreet project folder: `cd zenstreet`
+1. Clone the repository: `git clone https://github.com/savio1233/zenstreet-webpage` or download the zip file
+2. Navigate to the ZenStreet-main folder
 3. Install the dependencies: `npm install`
 4. Run the development server: `npm run dev`
 
